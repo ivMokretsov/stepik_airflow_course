@@ -16,7 +16,7 @@ if __name__ == "__main__":
     # Параметры пользователя
     username = 'admin'
     email = 'admin@example.com'
-    password = '12345'
+    password = 'admin'
 
     # Создание пользователя
     create_user(username, email, password)
